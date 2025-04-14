@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mathieu.metral92@gmail.com
+	name = Mathieu Metral
